@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fa704cc3-d0fc-49f5-8984-e02188ce36af",
+    "name": "Ana Luiza (Admin)",
+    "email": "analuiza@fretebid.com",
+    "passwordHash": "60b38cccf9c40e8c2ac3dea2359501a8d1397861f81135ec6f3df6410fa44d09",
+    "role": "EMBARCADOR",
+    "created_at": "2026-10-26T12:27:54.749Z"
+  },
+  {
+    "id": "5980386e-f5dc-4556-b98e-acafe40ee1be",
+    "name": "Ana Luiza (Embarcador)",
+    "email": "ana.luiza@empresa.com.br",
+    "passwordHash": "f339e4df8967f88e78557f47921679c7fd7c82d799b90e953a6004934cc64acc",
+    "role": "EMBARCADOR",
+    "created_at": "2026-10-26T12:28:11.737Z"
+  }
+]

@@ -1,0 +1,22 @@
+# Rust build artifacts
+/target/
+Cargo.lock
+
+# Frontend build & modules
+node_modules/
+hub-frontend/node_modules/
+hub-frontend/dist/
+hub-frontend/.vite/
+
+# Local mock DB & secrets
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
